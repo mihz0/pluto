@@ -1,0 +1,22 @@
+{
+  "name": "pluto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main/shard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lavalink": "java -jar Lavalink.jar"
+  },
+  "author": "mihz0",
+  "license": "ISC",
+  "dependencies": {
+    "callsites": "^3.1.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.4.1",
+    "discord.js-light": "^3.3.5",
+    "dotenv": "^8.2.0",
+    "erela.js": "^2.2.0",
+    "erela.js-spotify": "^1.2.0",
+    "mongoose": "^5.10.13"
+  }
+}
