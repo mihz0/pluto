@@ -1,0 +1,32 @@
+server:
+  port: 0000
+  address: 0.0.0.0
+lavalink:
+  server:
+    password: ""
+    sources:
+      youtube: true
+      soundcloud: true
+      bandcamp: false
+      twitch: false
+      vimeo: false
+      mixer: false
+      http: false
+      local: false
+    bufferDurationMs: 400
+    youtubePlaylistLoadLimit: 1
+    youtubeSearchEnabled: true
+    soundcloudSearchEnabled: true
+    gc-warnings: true
+
+metrics:
+  prometheus:
+    enabled: false
+    endpoint: /metrics
+
+sentry:
+  dsn: ""
+
+  level:
+    root: INFO
+    lavalink: INFO
