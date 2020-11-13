@@ -18,10 +18,10 @@ const wh = new WebhookClient(process.env.WEBHOOK_ID, process.env.WEBHOOK_TOKEN);
 const schema = require("./model.js");
 const pack = require("dblapi.js");
 const dbl = new pack(
-    process.env.DBLTOKEN,
+    process.env.DBL_TOKEN,
     {
-        webhookPort: process.env.WEBHOOKPORT,
-        webhookAuth: process.env.WEBHOOKAUTH,
+        webhookPort: process.env.PORT,
+        webhookAuth: process.env.AUTH,
     },
 );
 
