@@ -12,7 +12,7 @@ for (const x of ["cooldown", "ratelimit", "plus"]) client[x] = new Set();
 client.owner = process.env.MIHZ0_ID;
 client.prefix = process.env.PREFIX;
 client.channel = process.env.CHANNEL;
-client.colour = "3A5D85";
+client.colour = "C29E81";
 client.cd = require("./functions.js").addCooldown;
 client.re = require("./functions.js").messageReact;
 
