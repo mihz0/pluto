@@ -1,1 +1,1 @@
-verified discord client that used to be in 1500+ guilds and have 250000+ members.
+discord client that used to be verified, serve 1500+ guilds and have 250000+ users.
