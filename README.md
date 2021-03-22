@@ -1,1 +1,5 @@
-discord client that used to be verified, serve 1500+ guilds and have 250000+ users.
+I deleted the Discord bot because I didn't want to be responsible for it anymore.<br>
+Achievements:<br>
+\- early verified<br>
+\- serve 1500 servers<br>
+\- have 250000 users<br>
