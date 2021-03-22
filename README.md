@@ -1,4 +1,4 @@
-I deleted the Discord bot because I didn't want to be responsible for it anymore.<br>
+I had deleted the Discord bot because I didn't want to be responsible for it anymore.<br>
 Achievements:<br>
 \- early verified<br>
 \- serve 1500 servers<br>
